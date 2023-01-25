@@ -23,15 +23,9 @@ A imagem a baico irá indicaar como foi feita a análise deste projeto, onde foi
 
 - REQ 1 Exibir Splash Screen
 - REQ 2 Criar padrão de Header
-
--REQ 3 TOP 10 Podcast
-
+- REQ 3 TOP 10 Podcast
 - REQ 4 Exibir categorias de podcast
-
 - REQ 5 Exibir os podcast recomendados
-
 - REQ 6 Tela inicial podcast
-
 - REQ 7 Exibir lista de episódios
-
 - REQ 8 Exibição do player do podcast
