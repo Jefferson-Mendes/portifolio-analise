@@ -1,4 +1,4 @@
-## Projeto Saucedemo
+# Projeto Saucedemo
 
 Este projeto foi criado com o propósito de práticar a criação e execução do **Plano de Teste** de um projeto, onde foi levado em consideração analisar um site já existente, realizar levantanto dos seus requisitos , criação de suites e casos de teste para execução .
 
