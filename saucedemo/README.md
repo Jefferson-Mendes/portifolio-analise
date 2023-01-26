@@ -36,3 +36,5 @@ Entre eles:
 - Severidade:
 
 ![Apresentacao Suite Login](img/ref_suite.png)
+
+### Apresentação do Escopo de Teste
